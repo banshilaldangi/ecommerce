@@ -1,0 +1,26 @@
+{"brands":
+[
+{"id":"20","name":"ABC Design"},
+{"id":"1","name":"Apple"},
+{"id":"19","name":"Beko"},
+{"id":"2","name":"Blackmagic"},
+{"id":"3","name":"BlackVue"},
+{"id":"17","name":"Bosch "},
+{"id":"4","name":"Bowens"},
+{"id":"5","name":"Bushnell"},
+{"id":"6","name":"Canon"},
+{"id":"7","name":"Carl Zeiss"},
+{"id":"8","name":"Casio"},
+{"id":"9","name":"Celestron"},
+{"id":"21","name":"Chicco "},
+{"id":"10","name":"DJI"},
+{"id":"11","name":"Fujifilm"},
+{"id":"12","name":"Garmin"},
+{"id":"13","name":"Gitzo"},
+{"id":"18","name":"Hotpoint "},
+{"id":"14","name":"HP"},
+{"id":"15","name":"Kenko"},
+{"id":"16","name":"Nikon"},
+{"id":"22","name":"Panasonic"}
+]
+}
