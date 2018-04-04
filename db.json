@@ -22,5 +22,34 @@
 {"id":"15","name":"Kenko"},
 {"id":"16","name":"Nikon"},
 {"id":"22","name":"Panasonic"}
+],
+ "categories":
+[
+{"id":"1","name":"Technology","parent_id":"0"},
+{"id":"2","name":"Home Electrical","parent_id":"0"},
+{"id":"3","name":"Baby & Toddler","parent_id":"0"},
+{"id":"4","name":"Sports & Leisure","parent_id":"0"},
+{"id":"5","name":"Digital Cameras","parent_id":"1"},
+{"id":"6","name":"Camcorders","parent_id":"1"},
+{"id":"7","name":"Televisions","parent_id":"1"},
+{"id":"8","name":"Set Top Boxes","parent_id":"1"},
+{"id":"9","name":"GPS Sat Navs","parent_id":"1"},
+{"id":"10","name":"SoundBars","parent_id":"1"},
+{"id":"11","name":"Tablets","parent_id":"1"},
+{"id":"12","name":"Fridges","parent_id":"2"},
+{"id":"13","name":"Freezers","parent_id":"2"},
+{"id":"14","name":"Dishwashers","parent_id":"2"},
+{"id":"15","name":"Washing Machines","parent_id":"2"},
+{"id":"16","name":"Washer Dryers","parent_id":"2"},
+{"id":"17","name":"Tumble Dryers","parent_id":"2"},
+{"id":"18","name":"Cookers & Hobs","parent_id":"2"},
+{"id":"19","name":"Fridge Freezer","parent_id":"2"},
+{"id":"20","name":"Prams & Pushchairs","parent_id":"3"},
+{"id":"21","name":"Car Seats","parent_id":"3"},
+{"id":"22","name":"Nursery Furniture","parent_id":"3"},
+{"id":"23","name":"Musical Instruments","parent_id":"4"},
+{"id":"24","name":"Luggage","parent_id":"4"},
+{"id":"25","name":"Bikes","parent_id":"4"},
+{"id":"26","name":"Tents","parent_id":"4"}
 ]
 }
