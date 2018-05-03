@@ -1,13 +1,4 @@
-{"brands":
-[
-{"id":"1","name":"ABC Design"},
-{"id":"2","name":"Apple"},
-{"id":"3","name":"Beko"},
-{"id":"4","name":"Blackmagic"},
-{"id":"5","name":"BlackVue"},
-{"id":"6","name":"Bosch "}
-
-],
+{
  "categories":
 [
 {"id":"1","name":"Technology","parent_id":"0"},
