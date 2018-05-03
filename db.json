@@ -1,4 +1,14 @@
 {
+  "brands":
+[
+{"id":"1","name":"ABC Design"},
+{"id":"2","name":"Apple"},
+{"id":"3","name":"Beko"},
+{"id":"4","name":"Blackmagic"},
+{"id":"5","name":"BlackVue"},
+{"id":"6","name":"Bosch "}
+
+],
  "categories":
 [
 {"id":"1","name":"Technology","parent_id":"0"},
@@ -46,28 +56,5 @@
 {"id":"17","product_id":"5","feature_id":"2"},
 {"id":"18","product_id":"5","feature_id":"1"},
 {"id":"19","product_id":"5","feature_id":"5"}
-]
-,
- "product_brands":
-[
-{"id":"1","product_id":"1","brand_id":"1"},
-{"id":"2","product_id":"1","brand_id":"2"},
-{"id":"3","product_id":"1","brand_id":"4"},
-{"id":"4","product_id":"3","brand_id":"5"},
-{"id":"5","product_id":"3","brand_id":"1"},
-{"id":"6","product_id":"4","brand_id":"4"},
-{"id":"7","product_id":"4","brand_id":"1"},
-{"id":"8","product_id":"4","brand_id":"2"},
-{"id":"9","product_id":"4","brand_id":"3"},
-{"id":"10","product_id":"4","brand_id":"5"},
-{"id":"11","product_id":"2","brand_id":"1"},
-{"id":"12","product_id":"2","brand_id":"2"},
-{"id":"13","product_id":"2","brand_id":"3"},
-{"id":"14","product_id":"2","brand_id":"5"},
-{"id":"15","product_id":"5","brand_id":"4"},
-{"id":"16","product_id":"5","brand_id":"3"},
-{"id":"17","product_id":"5","brand_id":"2"},
-{"id":"18","product_id":"5","brand_id":"1"},
-{"id":"19","product_id":"5","brand_id":"5"}
 ]
 }
